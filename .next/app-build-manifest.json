@@ -1,27 +1,38 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
     "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/page.css",
-      "static/chunks/app/page.js"
+      "static/chunks/webpack-404717d01afdf4ad.js",
+      "static/chunks/813dbf89-ff281aaf435afbdd.js",
+      "static/chunks/825-6cb4ba1d655a5ac2.js",
+      "static/chunks/main-app-d5edb80e333ba431.js",
+      "static/chunks/314-9d99bdafca702b61.js",
+      "static/css/d38502b28a35f65a.css",
+      "static/chunks/app/page-64e16bb4e4a2b623.js"
     ],
-    "/contact/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/page.js"
+    "/layout": [
+      "static/chunks/webpack-404717d01afdf4ad.js",
+      "static/chunks/813dbf89-ff281aaf435afbdd.js",
+      "static/chunks/825-6cb4ba1d655a5ac2.js",
+      "static/chunks/main-app-d5edb80e333ba431.js",
+      "static/chunks/314-9d99bdafca702b61.js",
+      "static/chunks/593-256213cf7c70c5b8.js",
+      "static/css/dfd9c19a1c710ca3.css",
+      "static/chunks/app/layout-05e13ad945376812.js"
     ],
     "/about/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/about/page.css",
-      "static/chunks/app/about/page.js"
+      "static/chunks/webpack-404717d01afdf4ad.js",
+      "static/chunks/813dbf89-ff281aaf435afbdd.js",
+      "static/chunks/825-6cb4ba1d655a5ac2.js",
+      "static/chunks/main-app-d5edb80e333ba431.js",
+      "static/css/4c082084c33027f2.css",
+      "static/chunks/app/about/page-3a4e76b0515b5a24.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-404717d01afdf4ad.js",
+      "static/chunks/813dbf89-ff281aaf435afbdd.js",
+      "static/chunks/825-6cb4ba1d655a5ac2.js",
+      "static/chunks/main-app-d5edb80e333ba431.js",
+      "static/chunks/app/contact/page-8b1e0c72cea48b2d.js"
     ]
   }
 }
