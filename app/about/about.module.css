@@ -1,0 +1,33 @@
+.about{
+    width: 90vw;
+    background:#202124;
+    color: white;
+    margin-left: 5vw;
+    padding: 20px;
+    border-radius: 20px;
+    box-sizing:border-box;
+    margin: 5vw;
+}
+
+.about h2 {
+    padding: 0;
+    margin: 0;
+    line-height: 1.2;
+}
+
+.about p {
+    padding: 0;
+    margin: 0;
+    line-height: 1.6;
+}
+
+.skills {
+    width: 90vw;
+    background:#202124;
+    color: white;
+    margin-left: 5vw;
+    padding: 20px;
+    border-radius: 20px;
+    box-sizing:border-box;
+    margin: 5vw;
+}
