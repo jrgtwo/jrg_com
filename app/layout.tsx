@@ -18,7 +18,7 @@ export default function RootLayout({
                 <Header />
                 <section>{ children }</section>
                 <Footer />
-                <Navigation />
+                {/*<Navigation />*/}
             </body>
         </html>
     )

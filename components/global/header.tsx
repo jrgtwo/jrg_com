@@ -15,7 +15,7 @@ export default function Header () {
                 </sup>
                 Jonathan Ray Garcia
             </h1>
-            <Navigation />
+            {/*<Navigation />*/}
         </header>
     );
 
