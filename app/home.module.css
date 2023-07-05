@@ -134,6 +134,18 @@
         height: 45vw;
     }
 
+    .experience li {
+        display: block;
+    }
+    .experience li img {
+        float:none;
+        display: block;
+        margin-bottom: 15px;
+        margin: 0 0 15px 50%;
+        position: relative;
+        left: -132.5px;
+    }
+
     .starburst {
         width: 60px;
         height: 60px;
